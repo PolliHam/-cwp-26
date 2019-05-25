@@ -1,0 +1,11 @@
+{
+    "db":"teamtime",
+    "host":"127.0.0.1",
+    "login":"root",
+    "password":"root",
+    "cookie": {
+        "key": "secret key",
+        "auth": "__auth_id"
+    },
+    "dialect":"mysql"
+}
