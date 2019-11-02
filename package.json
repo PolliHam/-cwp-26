@@ -7,7 +7,7 @@
     "moment-range": "^4.0.2",
     "moment-timezone": "^0.5.23",
     "mysql2": "^1.6.5",
-    "sequelize": "^4.43.0",
+    "sequelize": "^5.15.1",
     "tedious": "^5.0.3",
     "twix": "^1.2.1",
     "yamljs": "^0.3.0"
